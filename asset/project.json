@@ -15,7 +15,7 @@
   {
     "name": "Tripple_Shop",
     "code": "https://github.com/Assem29/Tripple_Shop",
-    "demo": "https://",
+    "demo": "https://tripple-shop-one.vercel.app/",
     "description": "Tripple is a big ecommerce online store with multiple languages support and multiple currencies",
     "tools": [
       "ReactJs",
