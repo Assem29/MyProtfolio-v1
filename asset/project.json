@@ -1,0 +1,60 @@
+[
+  {
+    "name": "Market_Ecommerce",
+    "code": "https://github.com/Assem29/Market_eCommerce",
+    "demo": "https://assemmarket.netlify.app/",
+    "description": "Fully functioning E-commerce web app with responsive design.",
+    "tools": ["React","Context"],
+    "imgSrc": [
+      "/images/market-ecommerce/1.png",
+      "/images/market-ecommerce/2.png",
+      "/images/market-ecommerce/3.png",
+      "/images/market-ecommerce/4.png"
+    ]
+  },
+  {
+    "name": "Tripple_Shop",
+    "code": "https://github.com/Assem29/Tripple_Shop",
+    "demo": "https://",
+    "description": "Tripple is a big ecommerce online store with multiple languages support and multiple currencies",
+    "tools": [
+      "ReactJs",
+      "Next.js"
+    ],
+    "imgSrc": [
+      "/images/tripple-shop/6.png",
+      "/images/tripple-shop/7.png",
+      "/images/tripple-shop/8.png",
+      "/images/tripple-shop/9.png"
+      
+    ]
+  },
+  {
+    "name": "Rentify",
+    "code": "https://github.com/Assem29/Rentify",
+    "demo": "https://rentify-nine.vercel.app/",
+    "description": "Rentify is Real estate website Using React Js and Tailwind css    .",
+    "tools": ["ReactJs", "TailwindCSS", "Firebase", "Scss"],
+    "imgSrc": [
+      "/images/Rentify/1.png",
+      "/images/Rentify/2.png",
+      "/images/Rentify/3.png",
+      "/images/Rentify/4.png"
+    ]
+  },
+  {
+    "name": "Ajil corp.",
+    "code": "https://github.com/Assem29/Ajil",
+    "demo": "https://ajil.vercel.app/",
+    "description": "Ajil is website for finances and payments organization with multiple languages support and beautiful animations",
+    "tools": ["ReactJs","Nextjs", "TypeScript", "Bootstrap", "Sass"],
+    "imgSrc": [
+      "/images/ajel/3.png",
+      "/images/ajel/4.png",
+      "/images/ajel/5.png",
+      "/images/ajel/6.png",
+      "/images/ajel/6.png"
+
+    ]
+  }
+]
