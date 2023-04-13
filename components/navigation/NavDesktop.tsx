@@ -61,7 +61,7 @@ const NavDesktop = () => {
             </li>
             <li>
               <a
-                href="https://firebasestorage.googleapis.com/v0/b/my-portfolio-d50af.appspot.com/o/Assem%20Vega%20Resume%20(1).pdf?alt=media&token=174df787-ecd7-423d-9119-d443166d8d5c"
+                href="https://firebasestorage.googleapis.com/v0/b/pdf2-b8277.appspot.com/o/Assem%20Mohamed%20resume.pdf?alt=media&token=b4707b7b-993e-4422-a111-80869a034b39"
                 target="_blank"
                 rel="noreferrer"
                 className="flex justify-center gap-2 items-center"
@@ -73,7 +73,7 @@ const NavDesktop = () => {
             <div className="hidden md:flex gap-8 text-3xl ">
               <Tippy content="Github profile">
                 <a
-                  href="https://github.com/Assemvega"
+                  href="https://github.com/Assem29"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="cursor-pointer"
@@ -84,7 +84,7 @@ const NavDesktop = () => {
               </Tippy>
               <Tippy content="Linkedin profile">
                 <a
-                  href="https://www.linkedin.com/in/Assem-vega-5bb9b3237/"
+                  href="https://www.linkedin.com/in/assem-mohamed-564434259/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="cursor-pointer"

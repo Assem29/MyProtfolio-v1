@@ -71,7 +71,7 @@ const NavMobile = () => {
           </li>
           <li>
             <a
-              href="https://firebasestorage.googleapis.com/v0/b/pdf2-b8277.appspot.com/o/Assem%20Mohamed-%20CV.pdf?alt=media&token=940e654b-a0a5-4230-ad2b-3a8538cfb914"
+              href="https://firebasestorage.googleapis.com/v0/b/pdf2-b8277.appspot.com/o/Assem%20Mohamed%20resume.pdf?alt=media&token=b4707b7b-993e-4422-a111-80869a034b39"
               target="_blank"
               rel="noreferrer"
               className="flex justify-center gap-2 items-center"
