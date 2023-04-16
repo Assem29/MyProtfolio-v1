@@ -10,7 +10,7 @@
       "/images/market-ecommerce/2.png",
       "/images/market-ecommerce/3.png",
       "/images/market-ecommerce/4.png"
-    ]
+ ]
   },
   {
     "name": "Tripple_Shop",
@@ -54,6 +54,20 @@
       "/images/ajel/5.png",
       "/images/ajel/6.png",
       "/images/ajel/6.png"
+
+    ]
+  },
+  {
+    "name": "Araby",
+    "code": "https://github.com/Assem29/Araby",
+    "demo": "https://arabysite.netlify.app/",
+    "description": "Araby is Fully responsive ecommerce website Arabic",
+    "tools": ["HTML","CSS", "JQuary", "Bootstrap"],
+    "imgSrc": [
+      "/images/araby/p5.png",
+      "/images/araby/p6.png",
+      "/images/araby/p7.png",
+      "/images/araby/p8.png"
 
     ]
   }

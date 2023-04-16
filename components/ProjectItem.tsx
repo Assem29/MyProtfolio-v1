@@ -35,7 +35,7 @@ const ProjectItem = ({ data }: ProjectsItemProps) => {
             ))}
           </div>
         </div>
-        <div className="mt-10 flex gap-4 __className_f6433a">
+        <div className="mt-1 flex gap-4 __className_f6433a">
           <a
             href={data.demo}
             target="_blank"
